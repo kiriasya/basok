@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\Source\Repos\Project9\Project9\MyForm.h(223,29): warning C4101: e: неиспользованная локальная переменная
+D:\Source\Repos\Project9\Project9\MyForm.h(342,27): warning C4101: kolom: неиспользованная локальная переменная
+D:\Source\Repos\Project9\Project9\MyForm.h(343,13): warning C4101: p: неиспользованная локальная переменная
+D:\Source\Repos\Project9\Project9\MyForm.h(342,46): warning C4101: q: неиспользованная локальная переменная
+D:\Source\Repos\Project9\Project9\MyForm.h(343,16): warning C4101: o: неиспользованная локальная переменная
+D:\Source\Repos\Project9\Project9\MyForm.h(342,17): warning C4101: rij: неиспользованная локальная переменная
+  Arr.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project9.vcxproj -> D:\Source\Repos\Project9\Debug\Project9.exe
